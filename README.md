@@ -1,6 +1,6 @@
 # Business Recommendations using Prediction of Review Rating
 
-# Download and install any missing packages that are used.
+Download and install any missing packages that are used.
 
 1. Download the yelp academic dataset and copy the json files to a folder named dataset placed in the same directory as preprocess.py
 2. Run the preprocess.py file to read the business json data, filter it based on category and city to 'Restaurants' and 'Pittsburgh' respectively. This filtered dataset is written as a new file named review_pittsburgh_restaurant.json which will be used for our project
